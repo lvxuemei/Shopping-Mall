@@ -1,0 +1,114 @@
+{
+    "xq":[
+        {
+            "name":"series",
+            "title":"系列",
+            "img":"https://www.givenchy.com/dw/image/v2/BBRT_PRD/on/demandware.static/-/Library-Sites-shared_GIV_Library/default/dw8b758535/Content/Collections/CollectionHeader_Mobile.jpg?sfrm=jpg",
+             "msg":["档案","2019春夏","2019秋冬","HUATE COUTURE"],
+            "three":[
+                {
+                "name":"档案",
+                "shop":["暂无消息"]
+            },
+                {
+               "name":"2019春夏",
+               "shop":["女士早春系列","春季男装","夏季"]
+            },{
+                "name":"2019秋冬",
+                "shop":["秋季女装","秋季男士"]
+            },{
+                "name":"HUATE COUTURE",
+                "shop":["2018春夏","2018秋冬"]
+            }
+        ]
+        },
+        {
+            "name":"woman",
+            "title":"女士",
+            "img":" https://www.givenchy.com/on/demandware.static/-/Library-Sites-shared_GIV_Library/default/dwd348ed29/Home/JAW/women-flyout.jpg",
+             "msg":["最新系列","成衣","包袋","鞋履","配饰","折扣精品"],
+             "three":[
+                 {
+                    "name":"最新系列",
+                    "shop":["最新系列","购买这套造型","GIVENCHY缝纫"]
+             },{
+                "name":"成衣",
+                "shop":["棒球外套","开衫","套头针织衫","上衣与衬衣","T恤","夹克衫","大衣与外套","日常裙装","晚礼服","裙子","裤子和短裤"]
+             },{
+                 "name":"包袋",
+                 "shop":["GV3","HORIZON","ANTIGONA","PANDORA","手袋","斜挎包","单肩包","迷你包","手袋和背包","纪梵希系列"]
+             },{
+                 "name":"鞋履",
+                 "shop":["凉鞋与高跟鞋","平底鞋","运动鞋","靴子"]
+             },{
+                 "name":"配饰",
+                 "shop":["手拿包","钱包","钥匙与卡包","太阳镜","珠宝配饰","围巾","软帽与袜子","皮带","其它配饰"]
+             },{
+                 "name":"折扣精品",
+                 "shop":["大衣与外套","上衣与衬衣 和夹克衫","开衫和套头针织衫","女装","裤子与裙子","鞋履","配饰"]
+             }
+            
+            ]
+        }, 
+        {
+            "name":"man",
+            "title":"男士",
+            "img":"https://www.givenchy.com/on/demandware.static/-/Library-Sites-shared_GIV_Library/default/dw19f5b40f/Home/JAW/Men-flyout.jpg",
+             "msg":["最新系列","成衣","包袋","鞋履","配饰","折扣精品"],
+            "three":[{
+                "name":"最新系列",
+                "shop":["最新系列","购买这套造型","GIVENCHY PARIS"]
+            },{
+                "name":"成衣",
+                "shop":["棒球外套","开衫","外衣与外套","套头针织衫","上衣与衬衫","衬衣","西服外套","裤子和短裤"]
+            },{
+                "name":"包袋",
+                "shop":["斜挎包","旅行吧","背包","手拿包"]
+            },{
+                "name":"鞋履",
+                "shop":["靴子与德比鞋","运动鞋","休闲鞋"]
+            },{
+                "name":"配饰",
+                "shop":["手拿包","钱包","钥匙与卡包","珠宝配饰","软帽与帽子","围巾","领带","皮带","其它配饰"]
+            },{
+                "name":"折扣精品",
+                "shop":["外衣与外套","开衫和 套头针织衫","上衣与衬衣","衬衣和西服外套","裤子和短裤","包袋和手拿包","鞋履","配饰"]
+            }
+        
+        ]
+            },
+        {
+            "name":"child",
+            "title":"孩子",
+            "img":"https://www.givenchy.com/on/demandware.static/-/Library-Sites-shared_GIV_Library/default/dw49ecc40c/Product/Nav-Flyout/Kids Fly out.jpg",
+            "msg":["2018秋冬"],
+            "three":[{
+                "name":"2018秋冬",
+                "shop":["宝贝（1至3个月）","孩子（4至12年）"]
+            }]
+        },
+        {
+            "name":"brand",
+            "title":"品牌",
+            "img":"https://www.givenchy.com/on/demandware.static/-/Library-Sites-shared_GIV_Library/default/dwac2f9036/Content/Maison/MAISON NAVIGATION.jpg",
+            "msg":["品牌家族","里程碑","近期","按主题"],
+            "three":[{
+                "name":"品牌家族",
+                "shop":["暂无"]
+            },{
+                "name":"里程碑",
+                "shop":["HUBERT DE GIBENCHY","CLARE WAIGHT KELLER","HOTEL DE CARAMAN - GIBENCHY总部"]
+            },{
+                "name":"近期",
+                "shop":["2019情人节县连贯WHIP手袋","THE SPRING SUMMER 2019 CAMPAIGN","身着无尾礼服的男士:RAMI MALEK"]
+            },{
+                "name":"按主题",
+                "shop":["GIVENCHY STOPRIES","CLARE WAIGHY KELLER","历史","红毯","合作","建筑","SAVOIR-FAIRE"]
+            }
+        
+        ]
+        }
+  
+    ]
+
+}

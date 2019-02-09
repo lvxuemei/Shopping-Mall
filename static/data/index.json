@@ -1,0 +1,41 @@
+{
+    "banner":[
+        {
+        "img":"https://www.givenchy.com/dw/image/v2/BBRT_PRD/on/demandware.static/-/Library-Sites-shared_GIV_Library/default/dwc46b4ac8/Home/FW19/MEN/MenFW19_HP_mobile.jpg?sfrm=jpg",
+        "msg":"MEN WINTER 2019 COLLECTION",
+        "footnote":"发现"
+    },{
+        "img":  "https://www.givenchy.com/dw/image/v2/BBRT_PRD/on/demandware.static/-/Library-Sites-shared_GIV_Library/default/dw8ed4910a/Home/SS19/SS19Campaign_HP_mobile.jpg?sfrm=jpg",
+        "msg":"2019春夏系列广告",
+        "footnote":"发现"
+    },{
+        "img":  "https://www.givenchy.com/dw/image/v2/BBRT_PRD/on/demandware.static/-/Library-Sites-shared_GIV_Library/default/dw61c17f37/Home/SPRING%2019/Shop%20the%20look/Shopthelook_W_Spring19_HP_mobile.jpg?sfrm=jpg",
+        "msg":"选购女士造型",
+        "footnote":"SHOP THE LOOKS FROM THE SPRING 2019 COLLECTION"
+    },{
+        "img": "https://www.givenchy.com/dw/image/v2/BBRT_PRD/on/demandware.static/-/Library-Sites-shared_GIV_Library/default/dw730b50e8/Home/SPRING%2019/Shop%20the%20look/Shopthelook_M_Spring19_HP_mobile2.jpg?sfrm=jpg",
+        "msg":"选购男士造型",
+        "footnote":"SHOP THE LOOKS FROM THE SPRING 2019 COLLECTION"
+    }
+],
+    "shop":[
+        {
+            "img":"https://www.givenchy.com/dw/image/v2/BBRT_PRD/on/demandware.static/-/Library-Sites-shared_GIV_Library/default/dwbe96c1c7/Home/SPRING%2019/Browse_GV3_QuiltingBags.jpg?sfrm=jpg",
+            "msg":"纪梵希绗缝设计"
+        },
+        {
+            "img":"https://www.givenchy.com/dw/image/v2/BBRT_PRD/on/demandware.static/-/Library-Sites-shared_GIV_Library/default/dwc65f083b/Home/Homepage%2018122018/Browse%20M.jpg?sfrm=jpg",
+            "msg":"JAW SNEAKER系列"
+        },{
+            "img":"https://www.givenchy.com/dw/image/v2/BBRT_PRD/on/demandware.static/-/Library-Sites-shared_GIV_Library/default/dw148585cb/Home/JAW/Jaw%20black%20and%20white%20Women%20mobile.jpg?sfrm=jpg",
+            "msg":"女士JAW SNEAKER运动鞋"
+        },{
+            "img":"https://www.givenchy.com/dw/image/v2/BBRT_PRD/on/demandware.static/-/Library-Sites-shared_GIV_Library/default/dwcafc8d9e/Home/Homepage%2018122018/Evening%20dresses%20mobile.jpg?sfrm=jpg",
+            "msg":"晚礼服"
+        },{
+            "img":"https://www.givenchy.com/dw/image/v2/BBRT_PRD/on/demandware.static/-/Library-Sites-shared_GIV_Library/default/dwd257cb52/Home/SPRING%2019/Spring%20Man%20T%20shirt%20mobile.jpg?sfrm=jpg",
+            "msg":"男士T恤"
+        }
+    ],
+    "nav":["最新系列","成衣","包袋","鞋履","配饰","折扣精品"]
+}

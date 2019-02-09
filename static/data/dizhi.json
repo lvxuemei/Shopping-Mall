@@ -1,0 +1,11 @@
+{
+    "dz":[
+        {
+            "name":"法国",
+            "components":["Avenue Montaigne, 巴黎","Faubourg Saint-Honoré, 巴黎","Galeries Lafayette Haussmann Women Accessories, 巴黎","Le Bon Marché Women, 巴黎","Marais, 巴黎","Printemps Haussmann Women Accessories, 巴黎","Galeries Lafayette Haussmann Women Ready-to-Wear, 巴黎"]
+        },{
+            "name":"其他国家",
+            "components":["中国","韩国","日本","新加坡","泰国","缅甸","美国","英国","德国"]
+        }
+    ]
+}
