@@ -1182,6 +1182,29 @@
                      "state":""
                }
               ]
+        },
+        {
+              "name":"选购女士造型",
+              "components":[
+                     {
+                            "id":70,
+                            "title":"单排扣长款燕尾大衣",
+                            "money":"2,490.00",
+                            "img":["https://www.givenchy.com/dw/image/v2/BBRT_PRD/on/demandware.static/-/Sites-Givenchy_master/default/dw994d6463/images/BWC03R11DU001/BWC03R11DU001-02-01.jpg?sw=530",
+                                   "https://www.givenchy.com/dw/image/v2/BBRT_PRD/on/demandware.static/-/Sites-Givenchy_master/default/dw3f6507ea/images/BWC03R11DU001/BWC03R11DU001-02-02.jpg?sw=530",
+                                   "https://www.givenchy.com/dw/image/v2/BBRT_PRD/on/demandware.static/-/Sites-Givenchy_master/default/dw3cd44391/images/BWC03R11DU001/BWC03R11DU001-02-03.jpg?sw=530",
+                                   "https://www.givenchy.com/dw/image/v2/BBRT_PRD/on/demandware.static/-/Sites-Givenchy_master/default/dw2083b1a0/images/BWC03R11DU001/BWC03R11DU001-02-04.jpg?sw=530",
+                                   "https://www.givenchy.com/dw/image/v2/BBRT_PRD/on/demandware.static/-/Sites-Givenchy_master/default/dw68310e20/images/BWC03R11DU001/BWC03R11DU001-02-05.jpg?sw=530",
+                                   "https://www.givenchy.com/dw/image/v2/BBRT_PRD/on/demandware.static/-/Sites-Givenchy_master/default/dw6e2691ce/images/BWC03R11DU001/BWC03R11DU001-02-06.jpg?sw=530"
+                            ],
+                            "pz":"",
+                            "msg":"长款直筒大衣，黑色羊毛绉布面料，单粒扣，尖角翻领，同系配色丝缎礼服翻领。1个胸前口袋和2个侧面翻盖袋。4G图案黑色衬里。",
+                            "number":"BM70JN3Y3D-001",
+                            "style":"模特身材：胸围80厘米，腰围60厘米，臀围80厘米，身高178厘米。",
+                            "other":"Made in Italy",
+                            "state":""    
+                     }
+              ]
         }
 
     ]
