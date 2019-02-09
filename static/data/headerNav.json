@@ -4,7 +4,7 @@
             "name":"series",
             "title":"系列",
             "img":"https://www.givenchy.com/dw/image/v2/BBRT_PRD/on/demandware.static/-/Library-Sites-shared_GIV_Library/default/dw8b758535/Content/Collections/CollectionHeader_Mobile.jpg?sfrm=jpg",
-             "msg":["档案","2019春夏","2019秋冬","HUATE COUTURE"],
+             "msg":["档案","2019春夏","2019秋冬"],
             "three":[
                 {
                 "name":"档案",
@@ -12,13 +12,10 @@
             },
                 {
                "name":"2019春夏",
-               "shop":["女士早春系列","春季男装","夏季"]
+               "shop":["女士早春系列","夏季"]
             },{
                 "name":"2019秋冬",
                 "shop":["秋季女装","秋季男士"]
-            },{
-                "name":"HUATE COUTURE",
-                "shop":["2018春夏","2018秋冬"]
             }
         ]
         },
