@@ -1106,6 +1106,82 @@
                     "state":""
                   }
             ]
+        },
+        {
+               "name":"成衣",
+               "components":[{
+                     "id":61,
+                     "title":"GIVENCHY PARIS复古连帽衫",
+                     "money":"590.00",
+                     "img":["https://www.givenchy.com/dw/image/v2/BBRT_PRD/on/demandware.static/-/Sites-Givenchy_master/default/dw3cb08e45/images/BW706A3Z0Y600/BW706A3Z0Y600-02-01.jpg?sw=530",
+                            "https://www.givenchy.com/dw/image/v2/BBRT_PRD/on/demandware.static/-/Sites-Givenchy_master/default/dw9d2cad98/images/BW706A3Z0Y600/BW706A3Z0Y600-02-02.jpg?sw=530",
+                            "https://www.givenchy.com/dw/image/v2/BBRT_PRD/on/demandware.static/-/Sites-Givenchy_master/default/dwb9328a99/images/BW706A3Z0Y600/BW706A3Z0Y600-02-03.jpg?sw=530",
+                            "https://www.givenchy.com/dw/image/v2/BBRT_PRD/on/demandware.static/-/Sites-Givenchy_master/default/dwf494c7fd/images/BW706A3Z0Y600/BW706A3Z0Y600-02-04.jpg?sw=530",
+                            "https://www.givenchy.com/dw/image/v2/BBRT_PRD/on/demandware.static/-/Sites-Givenchy_master/default/dw32471b7a/images/BW706A3Z0Y600/BW706A3Z0Y600-02-05.jpg?sw=530",
+                            "https://www.givenchy.com/dw/image/v2/BBRT_PRD/on/demandware.static/-/Sites-Givenchy_master/default/dwf494c7fd/images/BW706A3Z0Y600/BW706A3Z0Y600-02-04.jpg?sw=530"
+                     ],
+                     "pz":"",
+                     "msg":"红色绒布连帽衫，胸前饰以复古效果白色GIVENCHY PARIS标志印花。正面1个大口袋。",
+                     "number":"BM70JN3Y3D-001",
+                     "style":"模特身材：胸围80厘米，腰围60厘米，臀围80厘米，身高178厘米。",
+                     "other":"Made in Italy",
+                     "state":""
+               },
+               {
+                     "id":62,
+                     "title":"GIVENCHY PARIS复古连帽衫",
+                     "money":"590.00",
+                     "img":["https://www.givenchy.com/dw/image/v2/BBRT_PRD/on/demandware.static/-/Sites-Givenchy_master/default/dwdd5ef9ca/images/BW70643Z18130/BW70643Z18130-02-01.jpg?sw=530",
+                            "https://www.givenchy.com/dw/image/v2/BBRT_PRD/on/demandware.static/-/Sites-Givenchy_master/default/dw35f870c7/images/BW70643Z18130/BW70643Z18130-02-02.jpg?sw=530",
+                            "https://www.givenchy.com/dw/image/v2/BBRT_PRD/on/demandware.static/-/Sites-Givenchy_master/default/dwc563c1f4/images/BW70643Z18130/BW70643Z18130-02-03.jpg?sw=530",
+                            "https://www.givenchy.com/dw/image/v2/BBRT_PRD/on/demandware.static/-/Sites-Givenchy_master/default/dw35f870c7/images/BW70643Z18130/BW70643Z18130-02-04.jpg?sw=530",
+                            "https://www.givenchy.com/dw/image/v2/BBRT_PRD/on/demandware.static/-/Sites-Givenchy_master/default/dw7c28d63b/images/BW70643Z18130/BW70643Z18130-02-05.jpg?sw=530",
+                            "https://www.givenchy.com/dw/image/v2/BBRT_PRD/on/demandware.static/-/Sites-Givenchy_master/default/dw4d158c68/images/BW70643Z18130/BW70643Z18130-02-06.jpg?sw=530"
+                     ],
+                     "pz":"",
+                     "msg":"红色绒布连帽衫，胸前饰以复古效果白色GIVENCHY PARIS标志印花。正面1个大口袋。",
+                     "number":"BM70JN3Y3D-001",
+                     "style":"模特身材：胸围80厘米，腰围60厘米，臀围80厘米，身高178厘米。",
+                     "other":"Made in Italy",
+                     "state":""
+               },
+               {
+                     "id":63,
+                     "title":"燕尾服夹克",
+                     "money":"1,890.00",
+                     "img":["https://www.givenchy.com/dw/image/v2/BBRT_PRD/on/demandware.static/-/Sites-Givenchy_master/default/dwc9f28fc6/images/BW306D10EA001/BW306D10EA001-02-01.jpg?sw=530",
+                            "https://www.givenchy.com/dw/image/v2/BBRT_PRD/on/demandware.static/-/Sites-Givenchy_master/default/dw91019b9f/images/BW306D10EA001/BW306D10EA001-02-02.JPG?sw=530",
+                            "https://www.givenchy.com/dw/image/v2/BBRT_PRD/on/demandware.static/-/Sites-Givenchy_master/default/dw92c2a0e2/images/BW306D10EA001/BW306D10EA001-02-03.JPG?sw=530",
+                            "https://www.givenchy.com/dw/image/v2/BBRT_PRD/on/demandware.static/-/Sites-Givenchy_master/default/dw1a1c2f1d/images/BW306D10EA001/BW306D10EA001-02-04.jpg?sw=530",
+                            "https://www.givenchy.com/dw/image/v2/BBRT_PRD/on/demandware.static/-/Sites-Givenchy_master/default/dwea065d10/images/BW306D10EA001/BW306D10EA001-02-05.jpg?sw=530",
+                            "https://www.givenchy.com/dw/image/v2/BBRT_PRD/on/demandware.static/-/Sites-Givenchy_master/default/dw180c6e30/images/BW306D10EA001/BW306D10EA001-02-09.jpg?sw=530"
+                     ],
+                     "pz":"",
+                     "msg":"黑色燕尾服夹克，马海毛和羊毛混纺面料，单颗4G徽章纽扣，缎面尖角翻领。1个胸前贴袋和2个侧面翻盖袋。",
+                     "number":"BM70JN3Y3D-001",
+                     "style":"模特身材：胸围80厘米，腰围60厘米，臀围80厘米，身高178厘米。",
+                     "other":"Made in Italy",
+                     "state":""
+               },
+               {
+                     "id":63,
+                     "title":"威尔士亲王羊毛双排扣夹克",
+                     "money":"2,290.00",
+                     "img":["https://www.givenchy.com/dw/image/v2/BBRT_PRD/on/demandware.static/-/Sites-Givenchy_master/default/dw263bbb26/images/BW307A11DY015/BW307A11DY015-02-01.jpg?sw=530",
+                            "https://www.givenchy.com/dw/image/v2/BBRT_PRD/on/demandware.static/-/Sites-Givenchy_master/default/dw3c6d8aea/images/BW307A11DY015/BW307A11DY015-02-02.jpg?sw=530",
+                            "https://www.givenchy.com/dw/image/v2/BBRT_PRD/on/demandware.static/-/Sites-Givenchy_master/default/dw16b045ee/images/BW307A11DY015/BW307A11DY015-02-04.jpg?sw=530",
+                            "https://www.givenchy.com/dw/image/v2/BBRT_PRD/on/demandware.static/-/Sites-Givenchy_master/default/dwcd11c4f1/images/BW307A11DY015/BW307A11DY015-02-05.jpg?sw=530",
+                            "https://www.givenchy.com/dw/image/v2/BBRT_PRD/on/demandware.static/-/Sites-Givenchy_master/default/dw814815b4/images/BW307A11DY015/BW307A11DY015-02-09.jpg?sw=530",
+                            "https://www.givenchy.com/dw/image/v2/BBRT_PRD/on/demandware.static/-/Sites-Givenchy_master/default/dw4d9e1367/images/BW307A11DY015/BW307A11DY015-02-10.jpg?sw=530"
+                     ],
+                     "pz":"",
+                     "msg":"精裁修身双排扣夹克，黑色和白色格纹羊毛面料，四粒黑色纽扣，尖角翻领。1个胸袋，侧面两个翻盖袋。4G图案黑色衬里。",
+                     "number":"BM70JN3Y3D-001",
+                     "style":"模特身材：胸围80厘米，腰围60厘米，臀围80厘米，身高178厘米。",
+                     "other":"Made in Italy",
+                     "state":""
+               }
+              ]
         }
 
     ]
